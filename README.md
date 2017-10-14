@@ -42,8 +42,8 @@ if (length(need.installation) != 0) {
 ```
 
 ## R Scripts  
-* `helper-functions.R`: Contains helper functions used by `dpp-sample.R`.
-* `dpp-sample.R`: Contains functions to simulate a single realization of a k-DPP and to empirically
+* `helper-functions.R`: Contains helper functions used by `kdpp-sample.R`.
+* `kdpp-sample.R`: Contains functions to simulate a single realization of a k-DPP and to empirically
 obtain the best configuration based on repeateadly sampling from a given k-DPP.
 
 
